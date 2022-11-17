@@ -1,0 +1,15 @@
+/Users/elenaivanova/Desktop/LSN2/DZ__Seminar2/Zadaha13/obj/Debug/net6.0/Zadaha13.csproj.AssemblyReference.cache
+/Users/elenaivanova/Desktop/LSN2/DZ__Seminar2/Zadaha13/obj/Debug/net6.0/Zadaha13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elenaivanova/Desktop/LSN2/DZ__Seminar2/Zadaha13/obj/Debug/net6.0/Zadaha13.AssemblyInfoInputs.cache
+/Users/elenaivanova/Desktop/LSN2/DZ__Seminar2/Zadaha13/obj/Debug/net6.0/Zadaha13.AssemblyInfo.cs
+/Users/elenaivanova/Desktop/LSN2/DZ__Seminar2/Zadaha13/obj/Debug/net6.0/Zadaha13.csproj.CoreCompileInputs.cache
+/Users/elenaivanova/Desktop/LSN2/DZ__Seminar2/Zadaha13/bin/Debug/net6.0/Zadaha13
+/Users/elenaivanova/Desktop/LSN2/DZ__Seminar2/Zadaha13/bin/Debug/net6.0/Zadaha13.deps.json
+/Users/elenaivanova/Desktop/LSN2/DZ__Seminar2/Zadaha13/bin/Debug/net6.0/Zadaha13.runtimeconfig.json
+/Users/elenaivanova/Desktop/LSN2/DZ__Seminar2/Zadaha13/bin/Debug/net6.0/Zadaha13.dll
+/Users/elenaivanova/Desktop/LSN2/DZ__Seminar2/Zadaha13/bin/Debug/net6.0/Zadaha13.pdb
+/Users/elenaivanova/Desktop/LSN2/DZ__Seminar2/Zadaha13/obj/Debug/net6.0/Zadaha13.dll
+/Users/elenaivanova/Desktop/LSN2/DZ__Seminar2/Zadaha13/obj/Debug/net6.0/refint/Zadaha13.dll
+/Users/elenaivanova/Desktop/LSN2/DZ__Seminar2/Zadaha13/obj/Debug/net6.0/Zadaha13.pdb
+/Users/elenaivanova/Desktop/LSN2/DZ__Seminar2/Zadaha13/obj/Debug/net6.0/Zadaha13.genruntimeconfig.cache
+/Users/elenaivanova/Desktop/LSN2/DZ__Seminar2/Zadaha13/obj/Debug/net6.0/ref/Zadaha13.dll
